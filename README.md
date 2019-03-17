@@ -56,7 +56,7 @@
 
 #### Android-App
 
-- Repository [here]
+- Repository [here](https://github.com/saloniagrawal12/Seer-Android.git)
 
 
 ------------------------------------------
