@@ -18,7 +18,7 @@
 ### Features
 
 - `Capture` any apparel you love
-- Browse across various preffered sources listed [here](example csv files)
+- Browse across various preffered sources listed [here]('example csv files')
 - `Get Recommendation` for affordable option of the same look
 
 
