@@ -58,15 +58,5 @@
 
 - Repository [here]
 
-### Installation
-
-
-Download the Android app from following link:
-
-
-
-```sh
-        $ pip3 install -r requirements.txt
-```
 
 ------------------------------------------
