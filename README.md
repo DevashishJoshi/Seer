@@ -18,7 +18,7 @@
 ### Features
 
 - `Capture` any apparel you love
-- Browse across ~ 255 preffered sources listed [here](./example_data.csv)
+- Browse across various preffered sources listed [here](./example_data.csv)
 - `Get Recommendation` for affordable option of the same look
 
 
@@ -26,10 +26,13 @@
 
 <div align="center">
 
-<h3 > Seer As Android-App  </h3>
+<h3 align="center"> > Seer As Android-App  </h3>
 <br>
 <p align="center">
 <img src ="./seer_working.gif" width = 500px>
+  
+  The Android app allows the user to style his/her next look just by capturing an image of the inspiration. A smart phone running our application just has to point the camera at the person wearing it, and it will process your request. The App processes the user query through our trained model which outputs similar outfits for you in your affordable price range. It directs you exactly to the shopping portal having the product you are looking for by choosing the best results for you. 
+ This makes browsing,selecting and shopping all at your finger tips. No extra time specifically spent in going through various options and trying out how it looks, the next time you see a person on the go , sporting an outfit you would like to have, just take out your phone and click!  
 </p>
 
 </div>
@@ -49,7 +52,7 @@
 #### Training Model
 
 - `Scrappers` : Scrapper for scraping details and creating own dataset from various e commerce websites
-- `App` : 
+- `App` : Android app which suggests affordable options of your inspiration outfit 
 
 #### Android-App
 
@@ -57,13 +60,13 @@
 
 ### Installation
 
+
+Download the Android app from following link:
+
+
+
 ```sh
         $ pip3 install -r requirements.txt
 ```
-
-------------------------------------------
-### Note
-
-- This project was done under `14 hours with no pre-preparation`
 
 ------------------------------------------
